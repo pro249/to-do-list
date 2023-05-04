@@ -1,0 +1,38 @@
+body{
+    background-color: blueviolet;
+}
+.grid{
+    display: grid;
+    width: 270px;
+    grid-template-columns: 30px 200px 50px;
+    background-color: lightblue;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#box{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(62, 150, 150);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+
+}
+h1{
+    text-align: center;
+}
+#input{
+    width: 200px;
+}
+#button{
+    width: 50px;
+}
+#buttonAndText{
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
